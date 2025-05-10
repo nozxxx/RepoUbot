@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# RepoUbot
-=======
-<<<<<<< HEAD
-# RepoUbot
-=======
 ## ubotlite Lite
 ```
 apt update && apt upgrade -y && add-apt-repository 'ppa:deadsnakes/ppa'
@@ -33,5 +27,3 @@ cd ubotlite && killall screen && screen -S ubotlite
 ``` 
 natz/bin/python -m PyroUbot
 ```
->>>>>>> 2f7c431 (repo)
->>>>>>> ffc56b4 (repo)
